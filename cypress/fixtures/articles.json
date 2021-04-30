@@ -1,0 +1,55 @@
+{
+    "articles": [
+        {
+            "title": "Some Brand Spanking New Article",
+            "slug": "some-brand-spanking-new-article-1a2mx2",
+            "body": "What do you mean in markdown?",
+            "createdAt": "2021-04-03T22:08:17.838Z",
+            "updatedAt": "2021-04-03T22:08:17.838Z",
+            "tagList": [],
+            "description": "Cool Stuff",
+            "author": {
+                "username": "conduittester2021",
+                "bio": null,
+                "image": "https://static.productionready.io/images/smiley-cyrus.jpg",
+                "following": false
+            },
+            "favorited": false,
+            "favoritesCount": 5
+        },
+        {
+            "title": "Some Brand -brand-spanking-new-article-8mjxuf",
+            "body": "What do you mean in markdown?",
+            "createdAt": "2021-04-03T22:07:38.810Z",
+            "updatedAt": "2021-04-03T22:07:38.810Z",
+            "tagList": [],
+            "description": "Cool Stuff",
+            "author": {
+                "username": "conduittester2021",
+                "bio": null,
+                "image": "https://static.productionready.io/images/smiley-cyrus.jpg",
+                "following": false
+            },
+            "favorited": false,
+            "favoritesCount": 5
+        },
+        {
+            "title": "Some fajdsaksjfaksjfkfjafkjdsf",
+            "slug": "some-brand-spanking-new-article-8mjxuf",
+            "body": "What do you mean in markdown?",
+            "createdAt": "2021-04-03T22:07:38.810Z",
+            "updatedAt": "2021-04-03T22:07:38.810Z",
+            "tagList": [],
+            "description": "Cool Stuff",
+            "author": {
+                "username": "conduittester2021",
+                "bio": null,
+                "image": "https://static.productionready.io/images/smiley-cyrus.jpg",
+                "following": false
+            },
+            "favorited": false,
+            "favoritesCount": 5
+        }
+    ],
+    "articlesCount": 500
+}

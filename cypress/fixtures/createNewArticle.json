@@ -1,0 +1,19 @@
+{
+    "article": {
+        "title": "asdfasdf",
+        "slug": "asdfasdf-n2e523",
+        "body": "fasdfasfsad",
+        "createdAt": "2021-04-05T03:21:52.865Z",
+        "updatedAt": "2021-04-05T03:21:52.865Z",
+        "tagList": [],
+        "description": "asdfasd",
+        "author": {
+            "username": "conduittester2021",
+            "bio": null,
+            "image": "https://static.productionready.io/images/smiley-cyrus.jpg",
+            "following": false
+        },
+        "favorited": false,
+        "favoritesCount": 0
+    }
+}
